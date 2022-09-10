@@ -1,1 +1,1 @@
-script
+program that assigns
