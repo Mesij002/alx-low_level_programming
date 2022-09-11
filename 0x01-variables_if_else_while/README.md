@@ -1,1 +1,1 @@
-program that assigns
+assign numbers
