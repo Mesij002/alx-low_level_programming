@@ -1,5 +1,4 @@
-
-#include "main.h"
+nclude "main.h"
 /**
  * * jack_bauer - function
  * */
@@ -25,4 +24,3 @@ void jack_bauer(void)
 														min = 0;
 															}
 }
-
