@@ -18,7 +18,7 @@ int wordCounterRec(char *str, int i)
  *  * word_counter - counts number of words in 1d array of strings
  *   * @str: pointer to char
  *    * Return: number of words
- *     **/
+ **/
 int word_counter(char *str)
 {
 	if (str[0] != ' ')
